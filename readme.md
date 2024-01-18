@@ -5,4 +5,4 @@
 * そこで，半角・全角を揃えるコードを作成した．
 * ついでにJavaScriptで実装して公開した．
 
-[リンク](https://e9492394.javascript-app.pages.dev)
+[公開Webサイトリンク](https://e9492394.javascript-app.pages.dev)
